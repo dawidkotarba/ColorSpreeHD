@@ -69,3 +69,6 @@ https://play.google.com/apps/testing/com.dk.colorgame.android﻿
 ##### Other:
 In order to improve the game, this app uses Google Analytics for gathering anonymous usage statistics.
 You can turn it off in options menu.
+
+##### Links:
+- Travis: https://travis-ci.org/dawidkotarba/ColorSpreeHD
