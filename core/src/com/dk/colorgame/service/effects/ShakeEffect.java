@@ -7,6 +7,10 @@ import com.dk.colorgame.utils.Utils;
 
 import java.util.Random;
 
+/*
+ This is a modification of shake effect written by dsgraham.
+ Original source available here: http://www.badlogicgames.com/forum/viewtopic.php?f=11&t=18560
+*/
 public class ShakeEffect {
     private float[] samples;
     private Random rand;
