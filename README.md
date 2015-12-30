@@ -5,9 +5,12 @@ https://play.google.com/store/apps/details?id=com.dk.colorgame.android&hl=en
 
     Description from Google Play:
 
-![Screen1](https://raw.githubusercontent.com/dawidkotarba/ColorSpreeHD/master/documentation/readme/screen2.png)
-![Screen2](https://raw.githubusercontent.com/dawidkotarba/ColorSpreeHD/master/documentation/readme/screen9.png)
-![Screen3](https://raw.githubusercontent.com/dawidkotarba/ColorSpreeHD/master/documentation/readme/screen10.png)
+![Screen](https://raw.githubusercontent.com/dawidkotarba/ColorSpreeHD/master/documentation/readme/screen1.png)
+![Screen](https://raw.githubusercontent.com/dawidkotarba/ColorSpreeHD/master/documentation/readme/screen9.png)
+![Screen](https://raw.githubusercontent.com/dawidkotarba/ColorSpreeHD/master/documentation/readme/screen7.png)
+![Screen](https://raw.githubusercontent.com/dawidkotarba/ColorSpreeHD/master/documentation/readme/screen8.png)
+![Screen](https://raw.githubusercontent.com/dawidkotarba/ColorSpreeHD/master/documentation/readme/screen2.png)
+![Screen](https://raw.githubusercontent.com/dawidkotarba/ColorSpreeHD/master/documentation/readme/screen10.png)
 
 Connect as many gems of the same color as possible! The more tiles you connect, the better score you get. Sounds easy?:) You have only 2 minutes! But do not worry - you can get an extra time easily by linking multiple gems together.
 Take advantage of Dynamite Tile or Bomb Tile - they activate gems around.
