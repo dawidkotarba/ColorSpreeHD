@@ -1,0 +1,151 @@
+anim.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anim00
+  rotate: false
+  xy: 2, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+anim01
+  rotate: false
+  xy: 103, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+anim02
+  rotate: false
+  xy: 2, 103
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+anim03
+  rotate: false
+  xy: 103, 103
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+anim04
+  rotate: false
+  xy: 2, 204
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+anim05
+  rotate: false
+  xy: 103, 204
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+anim06
+  rotate: false
+  xy: 2, 305
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+anim07
+  rotate: false
+  xy: 103, 305
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+anim08
+  rotate: false
+  xy: 2, 406
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+anim09
+  rotate: false
+  xy: 103, 406
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+anim10
+  rotate: false
+  xy: 2, 507
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+anim11
+  rotate: false
+  xy: 103, 507
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+anim12
+  rotate: false
+  xy: 2, 608
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+anim13
+  rotate: false
+  xy: 103, 608
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+anim14
+  rotate: false
+  xy: 2, 709
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+anim15
+  rotate: false
+  xy: 103, 709
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+anim16
+  rotate: false
+  xy: 2, 810
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+anim17
+  rotate: false
+  xy: 103, 810
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+anim18
+  rotate: false
+  xy: 2, 911
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+anim19
+  rotate: false
+  xy: 2, 1012
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+anim20
+  rotate: false
+  xy: 103, 911
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1

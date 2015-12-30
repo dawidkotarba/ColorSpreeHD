@@ -1,0 +1,137 @@
+anim.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tile_dynamite00
+  rotate: false
+  xy: 2, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+tile_dynamite01
+  rotate: false
+  xy: 103, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+tile_dynamite02
+  rotate: false
+  xy: 204, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+tile_dynamite03
+  rotate: false
+  xy: 305, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+tile_dynamite04
+  rotate: false
+  xy: 406, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+tile_dynamite05
+  rotate: false
+  xy: 507, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+tile_dynamite06
+  rotate: false
+  xy: 608, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+tile_dynamite07
+  rotate: false
+  xy: 709, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+tile_dynamite08
+  rotate: false
+  xy: 810, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+tile_dynamite09
+  rotate: false
+  xy: 911, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+tile_dynamite10
+  rotate: false
+  xy: 1012, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+tile_dynamite11
+  rotate: false
+  xy: 1113, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+tile_dynamite12
+  rotate: false
+  xy: 1214, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+tile_dynamite13
+  rotate: false
+  xy: 1315, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+tile_dynamite14
+  rotate: false
+  xy: 1416, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+tile_dynamite15
+  rotate: false
+  xy: 1517, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+tile_dynamite16
+  rotate: false
+  xy: 1618, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+tile_dynamite17
+  rotate: false
+  xy: 1719, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+tile_dynamite18
+  rotate: false
+  xy: 1820, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
