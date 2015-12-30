@@ -3,6 +3,15 @@
 Game is available under:
 https://play.google.com/store/apps/details?id=com.dk.colorgame.android&hl=en
 
+##### Key tech features:
+- integration with Google Play services for high scores submission
+- usage of Google Analytics
+- availability to show banner and/or interstitial ads
+- intensive usage of particle effects
+- assets buffering and caching
+- implemented light effects
+- stop motion animation
+
     Description from Google Play:
 
 ![Screen](https://raw.githubusercontent.com/dawidkotarba/ColorSpreeHD/master/documentation/readme/screen1.png)
@@ -21,10 +30,10 @@ Something went wrong? Use second finger to cancel the selection or just swipe to
 
 Good luck, have fun:)
 
-#### Supported resolutions:
+##### Supported resolutions:
 Game supports HD resolution. You can play both on smartphones and tablets.
 
-#### Tips:
+##### Tips:
 
 Function that calculates points:
 x = linked blocks
@@ -33,7 +42,7 @@ points = x*x-x
 Function that calculates extra seconds:
 points / 12, max 20 second per move
 
-#### Blocks available:
+##### Blocks available:
 - red / extra red (points x2)
 - blue / extra blue (points x2)
 - yellow / extra yelow (points x2)
@@ -48,7 +57,7 @@ points / 12, max 20 second per move
 - Thunder (destroys 2 random blocks, neutral color)
 - Multicolor (works for every color)
 
-#### Beta testing:
+##### Beta testing:
 Would you like to test the newest releases before they go official?
 
 Join the Color Spree testing community:
@@ -57,6 +66,6 @@ https://plus.google.com/communities/108634136562387389517
 Next sign in for beta testing:
 https://play.google.com/apps/testing/com.dk.colorgame.android﻿
 
-#### Other:
+##### Other:
 In order to improve the game, this app uses Google Analytics for gathering anonymous usage statistics.
 You can turn it off in options menu.
