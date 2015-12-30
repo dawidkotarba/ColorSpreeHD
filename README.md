@@ -14,6 +14,10 @@ https://play.google.com/store/apps/details?id=com.dk.colorgame.android&hl=en
 - implemented light effects
 - stop motion animation
 
+##### Still to do:
+- unit testing
+- javadoc
+
 ##### Description from Google Play:
 
 ![Screen](https://raw.githubusercontent.com/dawidkotarba/ColorSpreeHD/master/documentation/readme/screen1.png)
