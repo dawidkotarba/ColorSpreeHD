@@ -3,6 +3,8 @@
 Game is available under:
 https://play.google.com/store/apps/details?id=com.dk.colorgame.android&hl=en
 
+[![Build Status](https://travis-ci.org/dawidkotarba/ColorSpreeHD.png)](https://travis-ci.org/dawidkotarba/ColorSpreeHD)
+
 ##### Key tech features:
 - integration with Google Play services for high scores submission
 - usage of Google Analytics
