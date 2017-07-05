@@ -1,7 +1,7 @@
-# Color Spree HD: connect gems
+﻿# Color Spree HD: connect gems
 
-Game is available under:
-https://play.google.com/store/apps/details?id=com.dk.colorgame.android&hl=en
+Game can be downloaded here:
+https://github.com/dawidkotarba/ColorSpreeHD/raw/master/apk/ColorSpreeHD.apk
 
 [![Build Status](https://travis-ci.org/dawidkotarba/ColorSpreeHD.png)](https://travis-ci.org/dawidkotarba/ColorSpreeHD)
 
