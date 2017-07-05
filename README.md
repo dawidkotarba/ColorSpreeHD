@@ -63,15 +63,6 @@ points / 12, max 20 second per move
 - Thunder (destroys 2 random blocks, neutral color)
 - Multicolor (works for every color)
 
-##### Beta testing:
-Would you like to test the newest releases before they go official?
-
-Join the Color Spree testing community:
-https://plus.google.com/communities/108634136562387389517
-
-Next sign in for beta testing:
-https://play.google.com/apps/testing/com.dk.colorgame.android﻿
-
 ##### Other:
 In order to improve the game, this app uses Google Analytics for gathering anonymous usage statistics.
 You can turn it off in options menu.
