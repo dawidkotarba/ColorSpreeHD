@@ -1,9 +1,9 @@
 ﻿# Color Spree HD: connect gems
 
+[![Build Status](https://travis-ci.org/dawidkotarba/ColorSpreeHD.png)](https://travis-ci.org/dawidkotarba/ColorSpreeHD)
+
 Game can be downloaded here:
 https://github.com/dawidkotarba/ColorSpreeHD/raw/master/apk/ColorSpreeHD.apk
-
-[![Build Status](https://travis-ci.org/dawidkotarba/ColorSpreeHD.png)](https://travis-ci.org/dawidkotarba/ColorSpreeHD)
 
 ##### Key tech features:
 - integration with Google Play services for high scores submission
