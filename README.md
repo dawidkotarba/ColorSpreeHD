@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/dawidkotarba/ColorSpreeHD.png)](https://travis-ci.org/dawidkotarba/ColorSpreeHD)
 
+This game is dedicated to Marcin R., the no.1 champion in players ranking.
+
 Game can be downloaded here:
 https://github.com/dawidkotarba/ColorSpreeHD/raw/master/apk/ColorSpreeHD.apk
 
